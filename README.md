@@ -2,6 +2,8 @@
 
 ---
 
+[![Join the chat at https://gitter.im/ae-scripting/cyclops](https://badges.gitter.im/ae-scripting/cyclops.svg)](https://gitter.im/ae-scripting/cyclops?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [Minified JS](https://github.com/Instrument/cyclops/raw/master/js/cyclops.min.js) | [AE Script](https://github.com/Instrument/cyclops/raw/master/aftereffects scripts/cyclops.jsx) | [Documentation](https://github.com/Instrument/cyclops/docs)
 
 ---
